@@ -16,3 +16,26 @@ Estender o Burp Suite, que é uma ferramenta popular para web hacking.
 Explorar a automação do Windows COM para realizar um ataque do tipo man-in-the-browser.
 Obter dados de uma rede, principalmente de forma sub-reptícia.
 Técnicas usadas por pessoas da área e desafios criativos ao longo de toda a obra mostrarão como estender os hacks e criar seus próprios exploits. Quando se trata de segurança ofensiva, sua habilidade para criar ferramentas eficazes de forma imediata será indispensável. Saiba como fazer isso em Black Hat Python
+
+# Black Hat Python 
+
+Esse projeto foi feito para estudos do livro Black Hat Python
+
+## 🚀 Começando
+
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+
+```
+git clone https://github.com/JoaoViana1/BlackHatPythonBook.git
+```
+
+## 🛠️ Construído com
+
+* [Python](https://docs.python.org/3.7/) - Linguagem Usada
+
+## ✒️ Autores
+
+
+* **João** - *Todo o projeto* - [João](https://www.linkedin.com/in/jo%C3%A3o-guilherme-viana-de-medeiros-b903251a3/)
+
+
